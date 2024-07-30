@@ -1,0 +1,10 @@
+simple
+  element,id,class
+combinator
+  descendent,child,adjusent sibling,general sibling
+pseudo class
+  :link.:visisted,:hover,:active
+pseudo element
+  ::first-line,::first-letter,::before,::after
+attribute
+ based on elements attribute we will get some stylings    

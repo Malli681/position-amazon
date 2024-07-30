@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    .class-info 
+        font-size: 4rem;
+        font-family: sans-sarif;
+        font-weight: bold;
+        font-style: italic
+    
+    
+}
